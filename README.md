@@ -18,6 +18,9 @@
 * Install testrpc (use sudo if the below command doesn't work)
 
     `$ npm install -g ethereumjs-testrpc`
+* Install other dependencies
+
+    `npm install`
 * Move to project directory in console
 
      `$ cd ~/Desktop/shopd/`
