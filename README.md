@@ -7,7 +7,7 @@
 * Clone repository
     
     `$ git clone https://github.com/kbhokray/shopd.git`
-* Open [remix](remix.ethereum.org/#version=soljson-v0.4.17+commit.bdeb9e52.js) in browser
+* Open [remix](https://remix.ethereum.org/#version=soljson-v0.4.17+commit.bdeb9e52.js) in browser
 * Import files from [shopd/contracts](contracts) directory into remix by clicking the folder icon on the top left
 
 ## Testing
@@ -33,4 +33,4 @@
     `$ truffle test test/shopd.js`
 
 ## Other
-Please join the [slack channel](https://join.slack.com/t/christblockchain/shared_invite/enQtMjg3MTc2NDczMzI4LTk1NzU5MjgzMDA0NzIxZDJiNDFjNTMxY2ExZTlkOGIwOWQwZjliNTVhNjg3YWVlN2Q3M2Q3Yzc3ODFiY2Q4YTQ) and help your friends out!
+Please join the [slack channel](https://join.slack.com/t/vizitechblockchain/shared_invite/enQtMzAyMTQwMjIzMDI4LWE5MzJkMzg1MTBkMjdhYWQzMzVhZjc0M2RjYjFlMWU2OWViYjBkMDAzZmQwNzUwNDkzNWVlNTk3YjYwYmQ0OWI) and help your friends out!
