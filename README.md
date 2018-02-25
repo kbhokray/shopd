@@ -17,7 +17,7 @@
     `$ npm install -g truffle`
 * Install testrpc (use sudo if the below command doesn't work)
 
-    `$ npm install -g ethereumjs-testrpc`
+    `$ npm install -g ganache-cli`
 * Install other dependencies
 
     `npm install`
